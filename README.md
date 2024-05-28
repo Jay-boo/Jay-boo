@@ -55,6 +55,10 @@ Welcome to my GitHub profile! I’m a passionate Data Engineer with a strong bac
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-boo&show_icons=true&theme=transparent)
+<!--<p align="center"> 
+   Visitors Count<br>
+   <img src="https://profile-counter.glitch.me/Jay-boo/count.svg" />
+ </p>-->
 <!--
 **Jay-boo/Jay-boo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
