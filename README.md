@@ -11,8 +11,12 @@ Welcome to my GitHub profile! I’m a passionate Data Engineer with a strong bac
 -->
 
 
-[![Twitter Badge](
-	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JeanalainMorel1)
+[![X Badge](
+	 	https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JeanalainMorel1)
+[![Linkedin Badge](
+	 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-alain-morel-511772255/)
+[![Gmail Badge](
+	 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanalainpro2@gmail.com)
 
 
 ## Languages and Tools
